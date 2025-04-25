@@ -5,10 +5,10 @@
 The table below indicates which versions of PY-neapple receive security updates. If you are using an unsupported version, we recommend that you upgrade to a newer version to continue receiving security patches.
 
 Supported Version
-5.1.x :white:
-5.0.x :x:
-4.0.x :white_checkmark:
-< 4.0 :x:
+5.1.x ✅
+5.0.x ❌
+4.0.x ✅
+< 4.0 ❌
 
 ## Reporting a Vulnerability
 
